@@ -7,4 +7,4 @@ wx program:xiaoyigou
    历史价格表（history_price)
    商品信息表(English_Header)（该项目提供部分数据。）
    用户表(usr)
-5. 谢谢大家
+5. 小程序完成日期2021.6，谢谢大家
